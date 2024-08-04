@@ -1,15 +1,23 @@
-🏝️ Treasure Island 🏴‍☠️
+# 🏝️ Treasure Island 🏴‍☠️
 
-Bem-vindo ao Treasure Island! 🌟
-📖 Sobre o Projeto
+## 📖 Sobre o Projeto
 
-Treasure Island é um emocionante jogo de escolhas onde cada decisão pode levar você à morte... ou ao tesouro! 🪙⚔️
-🎮 Como Jogar
+**Treasure Island** é um emocionante jogo de escolhas onde cada decisão pode levar você à morte... ou ao tesouro! 🪙⚔️ (Lembrando que é apenas um projeto básico, estou voltando a programar em Python e estou brincando um pouco com ele)
 
-    Faça escolhas cruciais em cada etapa do jogo.
-    Cada decisão afetará o resultado final.
-    Explore a ilha e descubra segredos ocultos.
+## 🎮 Como Jogar
 
-⚠️ Aviso
-⚠️ Cuidado! Suas escolhas podem ter consequências fatais. Esteja preparado para enfrentar perigos inesperados enquanto busca pelo tesouro perdido.
-⚠️ Lembrando que é só um jogo básico, não é nada profissional, este é o meu primeiro game usando Python
+- Faça escolhas cruciais em cada etapa do jogo.
+- Cada decisão afetará o resultado final.
+
+## ⚠️ Aviso
+
+⚠️ Cuidado! Suas escolhas podem ter consequências fatais. Esteja preparado para enfrentar perigos inesperados enquanto busca pelo tesouro perdido. 
+
+## 💡 Características
+
+- **Interatividade:** Um jogo baseado em texto que reage às suas escolhas.
+- **Aventura:** Explore uma caverna cheia de mistérios e perigos.
+
+## 🚀 Comece Agora
+
+Pronto para a aventura? Embarque nesta jornada e veja se você consegue encontrar o tesouro escondido na **Treasure Island**!
